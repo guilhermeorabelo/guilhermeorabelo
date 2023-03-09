@@ -1,7 +1,7 @@
-- Olá! Eu sou Guilherme Rabelo
-- Eu estou interessado em aprender o mundo da programação e como utilizar estes conhecimentos nos meus projetos da vida (pessoal e profissional)
-- Estou me aventurando pelas linguagens de programação e já tenho um bom dominio com Python
-- Você pode se comunicar comigo pelo:
+- Hi! My name is Guilherme Rabelo
+- I am interested in learning the world of programming and how to use this knowledge in my life projects (personal and professional)
+- I'm venturing into programming languages and I already have a good knowledge with Python
+- You can communicate with me at:
  <p>  Instagram: instagram.com/guilherme_or/ </p>
  <p>  Gmail: guilhermeorabelo@gmail.com </p> 
  <p>  LinkedIn: linkedin.com/in/guilherme-o-r/ </p>  
